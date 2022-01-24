@@ -10,6 +10,19 @@ body{
 .card-list li{
     list-style: none;
 }
+.banner-btn a{    
+        text-decoration: none;
+        color: white;
+    }
+    .banner-btn{
+         background-color: white;
+         color: skyblue;
+         border-radius: 8px;
+         padding: 9px 25px;
+         border: none;
+         width: 232px;
+         height: 45px;
+    }
 .card-btn{
         
         background-color: #F496D1;
